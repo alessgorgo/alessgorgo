@@ -36,10 +36,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/alessgorgo/alessgorgo/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h3 align="left">🖥️ | My favorite environment</h3>
 
 ###
@@ -151,10 +147,3 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/Nghti">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Nghti&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
