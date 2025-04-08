@@ -8,7 +8,7 @@
   <a href="https://medium.com/@alessgorgo" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
   </a>
-  <a href="discordapp.com/users/351808783665594380" target="_blank">
+  <a href="https://discordapp.com/users/351808783665594380" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
   <a href="https://unsplash.com/it/@aleksgraphics" target="_blank">
