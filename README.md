@@ -101,7 +101,8 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/rust/000000" height="40" alt="rust logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/swift/F05138" height="40" alt="swift logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="40" alt="ssh logo"  />
+  <img width="12" />
 </div>
 
 ###
