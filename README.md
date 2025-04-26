@@ -42,6 +42,16 @@
 
 <p align="left">My ideal workspace is minimal but inspiring—a tidy desk, natural light, lo-fi in the background, and a warm drink within reach. It’s the kind of setup that helps me stay focused, creative, and in the zone, whether I’m designing, coding, or just exploring new ideas.</p>
 
+<div align="left">
+  <p>Current Favs</p>
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/elixir/4B275F" height="40" alt="elixir logo"  />
+  <img width="12" />
+</div>
+
 ###
 
 <div align="left">
