@@ -34,14 +34,6 @@
 
 <p align="left">I see design, development, and content creation as a balance between simplicity and art 🎨—where colors, shapes, and ideas are entirely subjective. That duality, where something can be both perfect and flawed at the same time ⚖️, is what inspires me every day ✨.<br><br>I'm always learning 📚, refining my skills ✍️, and embracing new challenges 🚀. While I don’t feel like I’ve reached a milestone to be proud of yet, I find fulfillment in the process—experimenting, improving, and growing 🌱.<br><br>Detail-oriented by nature 🧐, I lean toward minimalism but love to blend it with bold colors and classical artistic influences 🏛️. I don’t have a preferred audience; I enjoy working with different people 🤝, learning from their unique perspectives 🌍. Diversity drives my creativity, making every project an opportunity to evolve 🔁.</p>
 
-###
-
-<h3 align="left">🖥️ | My favorite environment</h3>
-
-###
-
-<p align="left">My ideal workspace is minimal but inspiring—a tidy desk, natural light, lo-fi in the background, and a warm drink within reach. It’s the kind of setup that helps me stay focused, creative, and in the zone, whether I’m designing, coding, or just exploring new ideas.</p>
-
 <div align="left">
   <p>Current Favs</p>
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
@@ -51,6 +43,14 @@
   <img src="https://cdn.simpleicons.org/elixir/4B275F" height="40" alt="elixir logo"  />
   <img width="12" />
 </div>
+
+###
+
+<h3 align="left">🖥️ | My favorite environment</h3>
+
+###
+
+<p align="left">My ideal workspace is minimal but inspiring—a tidy desk, natural light, lo-fi in the background, and a warm drink within reach. It’s the kind of setup that helps me stay focused, creative, and in the zone, whether I’m designing, coding, or just exploring new ideas.</p>
 
 ###
 
