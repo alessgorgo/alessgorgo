@@ -37,11 +37,11 @@
 <div align="left">
   <p>Current Favs</p>
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
-  <img width="12" />
+  <img width="6" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
-  <img width="12" />
+  <img width="6" />
   <img src="https://cdn.simpleicons.org/elixir/4B275F" height="40" alt="elixir logo"  />
-  <img width="12" />
+  <img width="6" />
 </div>
 
 ###
