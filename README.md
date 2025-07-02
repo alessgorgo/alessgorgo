@@ -101,7 +101,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/rust/0f0f0f" height="40" alt="rust logo"  />
+  <img src="https://cdn.simpleicons.org/rust/333333" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/elixir/4B275F" height="40" alt="elixir logo"  />
   <img width="12" />
