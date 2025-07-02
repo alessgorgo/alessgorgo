@@ -57,8 +57,6 @@
 <div align="left">
   <img src="https://cdn.simpleicons.org/debian/A81D33" height="40" alt="debian logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="40" alt="ssh logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
@@ -102,6 +100,8 @@
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/rust/0f0f0f" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/elixir/4B275F" height="40" alt="elixir logo"  />
   <img width="12" />
